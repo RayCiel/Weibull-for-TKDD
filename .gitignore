@@ -1,0 +1,6 @@
+#IDE related 
+.idea/
+#ipython 
+.ipynb_checkpoints/
+#cache
+__pycache__/
